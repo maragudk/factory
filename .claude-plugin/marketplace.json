@@ -1,5 +1,5 @@
 {
-  "name": "factory",
+  "name": "maragu",
   "owner": {
     "name": "Markus Wüstenberg",
     "email": "markus@maragu.dk"
@@ -9,7 +9,7 @@
   },
   "plugins": [
     {
-      "name": "allthethings",
+      "name": "factory",
       "source": "./",
       "description": "A plugin that does nothing. Yet."
     }
