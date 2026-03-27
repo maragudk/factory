@@ -6,7 +6,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "echo 'Say \"Welcome to the factory.\" as the very first thing in your response to the user.'",
+            "command": "${CLAUDE_PLUGIN_ROOT}/hooks/scripts/session-start.sh",
             "async": false
           }
         ]
