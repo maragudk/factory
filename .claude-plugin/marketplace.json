@@ -11,7 +11,7 @@
     {
       "name": "factory",
       "source": "./",
-      "description": "A plugin that does nothing. Yet."
+      "description": "The maragu factory plugin."
     }
   ]
 }
