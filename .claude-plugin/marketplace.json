@@ -1,0 +1,17 @@
+{
+  "name": "factory",
+  "owner": {
+    "name": "Markus Wüstenberg",
+    "email": "markus@maragu.dk"
+  },
+  "metadata": {
+    "description": "How my AIs and I build"
+  },
+  "plugins": [
+    {
+      "name": "allthethings",
+      "source": "./",
+      "description": "A plugin that does nothing. Yet."
+    }
+  ]
+}
